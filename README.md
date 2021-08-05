@@ -5,7 +5,7 @@
     </head>
     <body bgcolor="#303030"> 
     
-    <!--Encabezado-->
+    <!--Encabezado_frey-->
     <hr color="#520"/>
     <h1 align="center">
     <font color="#520" > Mi Blog </font>
