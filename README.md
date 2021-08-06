@@ -8,7 +8,7 @@
   </head>
   <body>
     <hr color="blue" size="15"/>
-    <h1> Fr3y Blog 🐉 xD</h1>
+    <h1 align="center"> Fr3y Blog 🐉 xD</h1>
     <hr color="blue" size="15"/>
 
     <script src="script.js"></script>
